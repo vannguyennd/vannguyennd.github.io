@@ -12,15 +12,13 @@ I am delighted to announce that my paper, "AI2TALE: An Innovative Information Th
 
 ---
 
-### Publications
+### Selected Publications
 
 2025:<br>
 <b>Van Nguyen</b>, Tingmin Wu, Xingliang Yuan, Marthie Grobler, Surya Nepal, and Carsten Rudolph. AI2TALE: An Innovative Information Theory-based Approach for Learning to Localize Phishing Attacks. The International Conference on Learning Representations (ICLR), 2025. (Rank: A*) <br>
 
 2024:<br>
 <b>Van Nguyen</b>, Trung Le, Chakkrit Kla Tantithamthavorn, John Grundy, and Dinh Phung. Deep Domain Adaptation With Max-Margin Principle for Cross-Project Imbalanced Software Vulnerability Detection. ACM Transactions on Software Engineering and Methodology (TOSEM), 2024. (Rank: Q1)<br> 
-
-Quan Hong Nguyen, Tingmin Wu, <b>Van Nguyen</b>, Xingliang Yuan, Jason Xue, and Carsten Rudolph. Utilizing Large Language Models with Human Feedback Integration for Generating Dedicated Warning for Phishing Emails. Proceedings of the 2nd ACM Workshop on Secure and Trustworthy Deep Learning Systems, 2024.<br>
 
 Michael Fu, <b>Van Nguyen</b>, Chakkrit Kla Tantithamthavorn, Trung Le, and Dinh Phung. Vision transformer-inspired automated vulnerability repair. ACM Transactions on Software Engineering and Methodology (TOSEM), 2024. (Rank: Q1)<br>
 
