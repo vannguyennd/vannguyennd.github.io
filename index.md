@@ -8,7 +8,7 @@ Alongside my expertise in theories and methodologies of computer science, data s
 
 I am excited to share that, with the support of Monash University, my proposal titled "Robust and Adaptive AI-driven Solutions for Software Development and Quality Assurance" has been submitted to the Discovery Early Career Researcher Award (DECRA) 2026.
 
-I am delighted to announce that my paper, "AI2TALE: An Innovative Information Theory-based Approach for Learning to Localize Phishing Attacks", has been accepted at the International Conference on Learning Representations (ICLR 2025, Rank: A*).
+I am delighted to announce that my paper, "AI2TALE: An Innovative Information Theory-based Approach for Learning to Localize Phishing Attacks", has been accepted at the International Conference on Learning Representations (ICLR 2025, Rank: A*). In this work, I propose an innovative deep learning-based method to solve the phishing attack localization problem, with the aim of improving the explainability (transparency) of email phishing detection. Automated machine learning and deep learning-based techniques for this problem have not yet been well studied.
 
 ---
 
