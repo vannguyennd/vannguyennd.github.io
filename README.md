@@ -1,6 +1,6 @@
 # Van Nguyen's Academic Portfolio
 
-Welcome to my personal academic website, hosted at [vannguyen88.github.io](https://vannguyen88.github.io).
+Welcome to my personal academic website, hosted at [vannguyennd.github.io](https://vannguyennd.github.io).
 
 ## Connect with me
 - [Google Scholar](https://scholar.google.com/citations?user=kLtEOdwAAAAJ&hl=en)
