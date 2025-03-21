@@ -4,41 +4,41 @@ To date, I have around five years of experience in computer science, data scienc
 
 Alongside my expertise in theories and methodologies of computer science, data science, cybersecurity, and software engineering, I have solid programming and technical skills, with proficiency in Python and a variety of libraries such as TensorFlow, Keras, PyTorch, Scikit-learn, NumPy, Pandas, Matplotlib, and Hugging Face for data analysis and implementing machine learning, deep learning, and large language models. I am also experienced in SQL, C/C++, R, Linux, and CUDA.
 
-### News 
+### News
 
 [*Mar 18, 2025*] I am excited to share that, with the support of Monash University, my proposal titled "Robust and Adaptive AI-driven Solutions for Software Development and Quality Assurance" has been submitted to the Discovery Early Career Researcher Award (DECRA) 2026.
 
-[*Jan 23, 2025*] I am delighted to announce that my paper, "AI2TALE: An Innovative Information Theory-based Approach for Learning to Localize Phishing Attacks", has been accepted at the International Conference on Learning Representations (ICLR 2025, Rank: A*). In this work, I propose an innovative deep learning-based method to solve the phishing attack localization problem, with the aim of improving the explainability (transparency) of email phishing detection. Automated machine learning and deep learning-based techniques for this problem have not yet been well studied.
+[*Jan 23, 2025*] I am delighted to announce that my paper, "AI2TALE: An Innovative Information Theory-based Approach for Learning to Localize Phishing Attacks", has been accepted at the International Conference on Learning Representations (ICLR 2025, ***Rank: A\****). In this work, I propose an innovative deep learning-based method to solve the phishing attack localization problem, with the aim of improving the explainability (transparency) of email phishing detection. Automated machine learning and deep learning-based techniques for this problem have not yet been well studied.
 
 ---
 
 ### Selected Publications
 
 2025:<br>
-<b>Van Nguyen</b>, Tingmin Wu, Xingliang Yuan, Marthie Grobler, Surya Nepal, and Carsten Rudolph. AI2TALE: An Innovative Information Theory-based Approach for Learning to Localize Phishing Attacks. The International Conference on Learning Representations (ICLR), 2025. (Rank: A*) <br>
+<b>Van Nguyen</b>, Tingmin Wu, Xingliang Yuan, Marthie Grobler, Surya Nepal, and Carsten Rudolph. AI2TALE: An Innovative Information Theory-based Approach for Learning to Localize Phishing Attacks. The International Conference on Learning Representations (ICLR), 2025. (***Rank: A\****) <br>
 
 2024:<br>
-<b>Van Nguyen</b>, Trung Le, Chakkrit Kla Tantithamthavorn, John Grundy, and Dinh Phung. Deep Domain Adaptation With Max-Margin Principle for Cross-Project Imbalanced Software Vulnerability Detection. ACM Transactions on Software Engineering and Methodology (TOSEM), 2024. (Rank: Q1)<br> 
+<b>Van Nguyen</b>, Trung Le, Chakkrit Kla Tantithamthavorn, John Grundy, and Dinh Phung. Deep Domain Adaptation With Max-Margin Principle for Cross-Project Imbalanced Software Vulnerability Detection. ACM Transactions on Software Engineering and Methodology (TOSEM), 2024. (***Rank: Q1***)<br> 
 
-Michael Fu, <b>Van Nguyen</b>, Chakkrit Kla Tantithamthavorn, Trung Le, and Dinh Phung. Vision transformer-inspired automated vulnerability repair. ACM Transactions on Software Engineering and Methodology (TOSEM), 2024. (Rank: Q1)<br>
+Michael Fu, <b>Van Nguyen</b>, Chakkrit Kla Tantithamthavorn, Trung Le, and Dinh Phung. Vision transformer-inspired automated vulnerability repair. ACM Transactions on Software Engineering and Methodology (TOSEM), 2024. (***Rank: Q1***)<br>
 
-Michael Fu, Chakkrit Tantithamthavorn, Trung Le, Yuki Kume, <b>Van Nguyen</b>, Dinh Phung, and John Grundy. AIBugHunter: A Practical Tool for Predicting, Classifying and Repairing Software Vulnerabilities. Empirical Software Engineering, 2024. (Rank: Q1)<br>
+Michael Fu, Chakkrit Tantithamthavorn, Trung Le, Yuki Kume, <b>Van Nguyen</b>, Dinh Phung, and John Grundy. AIBugHunter: A Practical Tool for Predicting, Classifying and Repairing Software Vulnerabilities. Empirical Software Engineering, 2024. (***Rank: Q1***)<br>
 
 2023:<br>
 Michael Fu, Chakkrit Kla Tantithamthavorn, <b>Van Nguyen</b>, and Trung Le. Chatgpt for Vulnerability Detection, Classification, and Repair: How Far Are We? 30th Asia-Pacific Software Engineering Conference (APSEC), 2023.<br>
 
-Michael Fu, <b>Van Nguyen</b>, Chakkrit Kla Tantithamthavorn, Trung Le, and Dinh Phung. VulExplainer: A Transformer-based Hierarchical Distillation for Explaining Vulnerability Types. IEEE Transactions on Software Engineering (TSE), 2023. (Rank: Q1)<br>
+Michael Fu, <b>Van Nguyen</b>, Chakkrit Kla Tantithamthavorn, Trung Le, and Dinh Phung. VulExplainer: A Transformer-based Hierarchical Distillation for Explaining Vulnerability Types. IEEE Transactions on Software Engineering (TSE), 2023. (***Rank: Q1***)<br>
 
-Vy Vo, <b>Van Nguyen</b>, Trung Le, Quan Hung Tran, Reza Haf, Seyit Camtepe, and Dinh Phung. An Additive Instance-Wise Approach to Multi-class Model Interpretation. The International Conference on Learning Representations (ICLR), 2023. (Rank: A*)<br>
+Vy Vo, <b>Van Nguyen</b>, Trung Le, Quan Hung Tran, Reza Haf, Seyit Camtepe, and Dinh Phung. An Additive Instance-Wise Approach to Multi-class Model Interpretation. The International Conference on Learning Representations (ICLR), 2023. (***Rank: A\****)<br>
 
-Vy Vo, Trung Le, <b>Van Nguyen</b>, He Zhao, Edwin Bonilla, Gholamreza Haffari, and Dinh Phung. Feature-based Learning for Diverse and Privacy-Preserving Counterfactual Explanations. 29th ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD), 2023. (Rank: A*)<br>
+Vy Vo, Trung Le, <b>Van Nguyen</b>, He Zhao, Edwin Bonilla, Gholamreza Haffari, and Dinh Phung. Feature-based Learning for Diverse and Privacy-Preserving Counterfactual Explanations. 29th ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD), 2023. (***Rank: A\****)<br>
 
 2022:<br>
 Van-Anh Nguyen, Dai Quoc Nguyen, <b>Van Nguyen</b>, Trung Le, Quan Hung Tran, and Dinh Phung. ReGVD: Revisiting Graph Neural Networks for Vulnerability Detection. IEEE/ACM 44th International Conference on Software Engineering: Companion Proceedings (ICSE-Companion), 2022.<br>
 
-Michael Fu, Chakkrit Tantithamthavorn, Trung Le, <b>Van Nguyen</b>, and Dinh Phung. VulRepair: A T5-Based Automated Software Vulnerability Repair. 30th ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering (ESEC/FSE), 2022. (Rank: A*)<br>
+Michael Fu, Chakkrit Tantithamthavorn, Trung Le, <b>Van Nguyen</b>, and Dinh Phung. VulRepair: A T5-Based Automated Software Vulnerability Repair. 30th ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering (ESEC/FSE), 2022. (***Rank: A\****)<br>
 
-Tuan Nguyen, <b>Van Nguyen</b>, Trung Le, He Zhao, Quan Hung Tran, and Dinh Phung. Cycle Class Consistency with Distributional Optimal Transport and Knowledge Distillation for Unsupervised Domain Adaptation. The Conference on Uncertainty in Artificial Intelligence (UAI), 2022. (Rank: A*)<br>
+Tuan Nguyen, <b>Van Nguyen</b>, Trung Le, He Zhao, Quan Hung Tran, and Dinh Phung. Cycle Class Consistency with Distributional Optimal Transport and Knowledge Distillation for Unsupervised Domain Adaptation. The Conference on Uncertainty in Artificial Intelligence (UAI), 2022. (***Rank: A\****)<br>
 
 2021:<br>
 <b>Van Nguyen</b>, Trung Le, Olivier De Vel, Paul Montague, John Grundy, and Dinh Phung. Information-theoretic source Code Vulnerability Highlighting.  International Joint Conference on Neural Networks (IJCNN), 2021. (Rank: A)<br>
