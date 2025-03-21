@@ -10,6 +10,8 @@ Alongside my expertise in theories and methodologies of computer science, data s
 
 [*Jan 23, 2025*] I am delighted to announce that my paper, "AI2TALE: An Innovative Information Theory-based Approach for Learning to Localize Phishing Attacks", has been accepted at the International Conference on Learning Representations (ICLR 2025, ***Rank: A\****). In this work, I propose an innovative deep learning-based method to solve the phishing attack localization problem, with the aim of improving the explainability (transparency) of email phishing detection. Automated machine learning and deep learning-based techniques for this problem have not yet been well studied.
 
+[*Aug 05, 2024*] The research proposal, "Continual Learning of Large Language Models for Version-Controlled Code Generation", in collaboration with my colleagues Dr [Trang Vu](https://research.monash.edu/en/persons/trang-vu) and Dr [Tongtong Wu](https://research.monash.edu/en/persons/tongtong-wu), secured the Monash FIT Early Career Academics Seed Grant.
+
 ---
 
 ### Selected Publications
