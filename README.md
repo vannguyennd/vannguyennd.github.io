@@ -5,7 +5,6 @@ Welcome to my personal academic website, hosted at [vannguyennd.github.io](https
 ## Connect with me
 - [Google Scholar](https://scholar.google.com/citations?user=kLtEOdwAAAAJ&hl=en)
 - [LinkedIn](https://www.linkedin.com/in/van-nguyen-phd-47357b135/)
-- [GitHub](https://github.com/vannguyennd)
 
 ---
 
