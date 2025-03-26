@@ -22,7 +22,7 @@ Alongside my expertise in theories and methodologies of computer science, data s
 2025:<br>
 <b>Van Nguyen</b>, Tingmin Wu, Xingliang Yuan, Marthie Grobler, Surya Nepal, and Carsten Rudolph. AI2TALE: An Innovative Information Theory-based Approach for Learning to Localize Phishing Attacks. The International Conference on Learning Representations (ICLR), 2025. (***Rank: A\****) <br>
 
-Bowen Zhang, Hui Cui, <b>Van Nguyen</b>, and Monica Whitty. Audio Deepfake Detection: What Has Been Achieved and What Lies Ahead. Sensors, 2025. (<b>Rank: Q1</b> (Instrumentation)).
+Bowen Zhang, Hui Cui, <b>Van Nguyen</b>, and Monica Whitty. Audio Deepfake Detection: What Has Been Achieved and What Lies Ahead. Sensors, 2025. (***Rank: Q1*** (Instrumentation)).
 
 2024:<br>
 <b>Van Nguyen</b>, Trung Le, Chakkrit Kla Tantithamthavorn, John Grundy, and Dinh Phung. Deep Domain Adaptation With Max-Margin Principle for Cross-Project Imbalanced Software Vulnerability Detection. ACM Transactions on Software Engineering and Methodology (TOSEM), 2024. (***Rank: Q1***)<br> 
