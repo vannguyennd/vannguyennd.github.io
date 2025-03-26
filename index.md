@@ -9,7 +9,7 @@ Alongside my expertise in theories and methodologies of computer science, data s
 
 ### News
 
-[*Mar 18, 2025*] I am excited to share that, with the support of Monash University, my proposal titled "Robust and Adaptive AI-driven Solutions for Software Development and Quality Assurance" has been submitted to the Australian Research Council (ARC) Discovery Early Career Researcher Award (DECRA) 2026. This project aims to create innovative solutions to address the limitations of current methods in software development and quality assurance practices. Ultimately, the solutions help create scalable, high-quality, and secure software with minimal operational costs while preventing catastrophic system failures and financial losses caused by software vulnerabilities.
+[*Mar 18, 2025*] I am excited to share that, with the support of Monash University, my proposal titled "Robust and Adaptive AI-driven Solutions for Software Development and Quality Assurance" has been submitted to the Australian Research Council (ARC) Discovery Early Career Researcher Award (DECRA) 2026. This project aims to create innovative solutions to address the limitations of current methods in software development and quality assurance practices. Ultimately, the solutions help create scalable, high-quality, secure, and adaptive software with minimal operational costs while preventing catastrophic system failures and financial losses caused by software vulnerabilities.
 
 [*Jan 23, 2025*] I am delighted to announce that our paper, "AI2TALE: An Innovative Information Theory-based Approach for Learning to Localize Phishing Attacks", has been accepted at the International Conference on Learning Representations (ICLR 2025, ***Rank: A\****). In this work, we propose an innovative deep learning-based method to solve the phishing attack localization problem, with the aim of improving the explainability (transparency) of email phishing detection. Our proposed method is lightweight, effective, and practical.
 
@@ -21,6 +21,8 @@ Alongside my expertise in theories and methodologies of computer science, data s
 
 2025:<br>
 <b>Van Nguyen</b>, Tingmin Wu, Xingliang Yuan, Marthie Grobler, Surya Nepal, and Carsten Rudolph. AI2TALE: An Innovative Information Theory-based Approach for Learning to Localize Phishing Attacks. The International Conference on Learning Representations (ICLR), 2025. (***Rank: A\****) <br>
+
+Bowen Zhang, Hui Cui, <b>Van Nguyen</b>, and Monica Whitty. Audio Deepfake Detection: What Has Been Achieved and What Lies Ahead. Sensors, 2025. (<b>Rank: Q1</b> (Instrumentation)).
 
 2024:<br>
 <b>Van Nguyen</b>, Trung Le, Chakkrit Kla Tantithamthavorn, John Grundy, and Dinh Phung. Deep Domain Adaptation With Max-Margin Principle for Cross-Project Imbalanced Software Vulnerability Detection. ACM Transactions on Software Engineering and Methodology (TOSEM), 2024. (***Rank: Q1***)<br> 
