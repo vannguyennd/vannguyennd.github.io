@@ -17,7 +17,7 @@ Alongside my expertise in theories and methodologies of computer science, data s
 
 [*Aug 2024*] The research proposal, "Continual Learning of Large Language Models for Version-Controlled Code Generation", in collaboration with my colleagues Dr [Trang Vu](https://research.monash.edu/en/persons/trang-vu) and Dr [Tongtong Wu](https://research.monash.edu/en/persons/tongtong-wu), secured the Monash FIT Early Career Academics Seed Grant.
 
-[*May 2024*] I had the privilege of serving as a guest lecturer for the "Software Security" unit in the Department of Software Systems and Cybersecurity at the Faculty of Information Technology, Monash University, where I presented current challenges and cutting-edge solutions in software security.
+[*May 2024*] I had the privilege of serving as a guest lecturer for the Software Security unit in the Department of Software Systems and Cybersecurity at the Faculty of Information Technology, Monash University, where I presented current challenges and cutting-edge solutions in software security.
 
 ---
 
