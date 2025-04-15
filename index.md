@@ -5,7 +5,7 @@ To date, I have around five years of experience in computer science, data scienc
 My current research focuses on advancing machine learning and deep learning approaches to solve topical problems in network and software security, including out-of-distribution code identification in software systems, robust and multilingual software vulnerability detection with explanations, transparent and reliable automated vulnerability repair, and enhancing large language models (LLMs) for practical and secure code generation, aiming for safer and more reliable software development processes and broader security systems. My long-term research goal is to advance AI systems to perform complex human learning, explanation, and reasoning, enabling more intelligent, adaptive, and efficient solutions.
 
 
-Alongside my expertise in theories and methodologies of computer science, data science, cybersecurity, and software engineering, I have solid programming and technical skills, with proficiency in Python and a variety of libraries such as TensorFlow, Keras, PyTorch, Scikit-learn, NumPy, Pandas, Matplotlib, and Hugging Face for data analysis and implementing machine learning, deep learning, and large language models. I am also experienced in SQL, C/C++, R, Linux, and CUDA.
+Alongside my expertise in theories and methodologies of computer science, data science, cybersecurity, and software engineering, I have solid programming and technical skills, with proficiency in Python and a variety of libraries such as TensorFlow, Keras, PyTorch, Scikit-learn, NumPy, Pandas, Matplotlib, and Hugging Face for data analysis and implementing machine learning, deep learning, and large language models. I am also experienced in Power BI, SQL, C/C++, R, Linux, and CUDA.
 
 ### News
 
