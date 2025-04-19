@@ -7,7 +7,7 @@ My current research focuses on advancing machine learning and deep learning appr
 
 Alongside my expertise in theories and methodologies of computer science, data science, cybersecurity, and software engineering, I have solid programming and technical skills, with proficiency in Python and a variety of libraries such as TensorFlow, Keras, PyTorch, Scikit-learn, NumPy, Pandas, Matplotlib, and Hugging Face for data analysis and implementing machine learning, deep learning, and large language models. I am also experienced in Power BI, SQL, C/C++, R, Linux, and CUDA.
 
-### News
+### Selected News
 
 [*Mar 2025*] I am excited to share that, with the support of Monash University, my proposal titled *"Robust and Adaptive AI-driven Solutions for Software Development and Quality Assurance"* has been submitted to the Australian Research Council (ARC) Discovery Early Career Researcher Award (DECRA) 2026. This project aims to create innovative solutions to address the limitations of current methods in software development and quality assurance practices. Ultimately, the solutions help create scalable, high-quality, secure, and adaptive software with minimal operational costs while preventing catastrophic system failures and financial losses caused by software vulnerabilities.
 
