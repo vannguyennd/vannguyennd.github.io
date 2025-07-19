@@ -7,6 +7,8 @@ My current research focuses on advancing machine learning and deep learning appr
 
 Alongside my expertise in theories and methodologies of computer science, data science, cybersecurity, and software engineering, I have solid programming and technical skills, with proficiency in Python and a variety of libraries such as TensorFlow, Keras, PyTorch, Scikit-learn, NumPy, Pandas, Matplotlib, and Hugging Face for data analysis and implementing machine learning, deep learning, and large language models. I am also experienced in Power BI, SQL, C/C++, R, Linux, and CUDA.
 
+---
+
 ### Selected News
 
 [*May 2025*] I am thrilled to share that our paper, "SAFE: A Novel Approach For Software Vulnerability Detection from Enhancing The Capability of Large Language Models", has been accepted at the 20th ACM ASIA Conference on Computer and Communications Security ***(ACM ASIACCS 2025), one of the top conferences in cybersecurity***. In this work, we propose an innovative approach to enhance the capability of large language models in learning the semantic and syntactic relationships within source code, enabling more robust software vulnerability detection. I am deeply grateful to my collaborators for their invaluable feedback and support throughout this research.
@@ -75,11 +77,11 @@ Tuan Nguyen, <b>Van Nguyen</b>, Trung Le, He Zhao, Quan Hung Tran, and Dinh Phun
 ### Services
 
 2021–Present:<br> 
-***Reviewer*** for leading conferences and journals in AI, cybersecurity, and software engineering, including:<br> 
+***Reviewer*** for leading conferences and journals in machine learning, cybersecurity, and software engineering, including:<br> 
 
-Journals: Automated Software Engineering; Computers & Security; IEEE Transactions on Software Engineering (TSE); ACM Transactions on Software Engineering and Methodology (TOSEM).<br> 
+*Journals*: Automated Software Engineering; Computers & Security; IEEE Transactions on Software Engineering (TSE); ACM Transactions on Software Engineering and Methodology (TOSEM).<br> 
 
-Conferences: The Web Conference (WWW); International Conference on Learning Representations (ICLR); Asian Conference on Machine Learning (ACML); Neural Information Processing Systems (NeurIPS); Uncertainty in Artificial Intelligence (UAI); International Conference on Machine Learning (ICML).<br> <br> 
+*Conferences*: The Web Conference (WWW); International Conference on Learning Representations (ICLR); Asian Conference on Machine Learning (ACML); Neural Information Processing Systems (NeurIPS); Uncertainty in Artificial Intelligence (UAI); International Conference on Machine Learning (ICML).<br> <br> 
 
 2024–Present:<br> 
 ***Program Committee Member***, The Association for the Advancement of Artificial Intelligence (AAAI).
