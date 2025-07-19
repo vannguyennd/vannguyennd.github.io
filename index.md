@@ -70,21 +70,17 @@ Tuan Nguyen, <b>Van Nguyen</b>, Trung Le, He Zhao, Quan Hung Tran, and Dinh Phun
 2019:<br>
 <b>Van Nguyen</b>, Trung Le, Tue Le, Khanh Nguyen, Olivier DeVel, Paul Montague, Lizhen Qu, and Dinh Phung. Deep Domain Adaptation for Vulnerable Code Function Identification. International Joint Conference on Neural Networks (IJCNN), 2019. (Rank: A)<br>
 
-2018:<br>
-Hung Nguyen, <b>Van Nguyen</b>, Thin Nguyen, Mark E Larsen, Bridianne O’Dea, Duc Thanh Nguyen, Trung Le, Dinh Phung, Svetha Venkatesh, and Helen Christensen. Jointly Predicting Affective and Mental Health Scores Using Deep Neural Networks of Visual Cues on The Web. Web Information Systems Engineering–WISE 2018: 19th International Conference, 2018. (Rank: A)<br>
+---
 
-2016:<br>
-Anh Le, Trung Le, Khanh Nguyen, <b>Van Nguyen</b>, Thai Hoang Le, Dat Tran. Fast kernel-based Method for Anomaly Detection. International Joint Conference on Neural Networks (IJCNN), 2016. (Rank: A)<br>
+### Services
 
-2015:<br>
-Trung Le, <b>Van Nguyen</b>, Anh Nguyen, Khanh Nguyen. Adaptable Linear Support Vector Machine. 2nd National Foundation for Science and Technology Development Conference on Information and Computer Science (NICS), 2015.<br>
+2021–Present:<br> 
+***Reviewer*** for leading conferences and journals in AI, cybersecurity, and software engineering, including:<br> 
 
-Phuong Duong, <b>Van Nguyen</b>, Mi Dinh, Trung Le, Dat Tran, and Wanli Ma. Graph-based Semi-supervised Support Vector Data Description for Novelty Detection. International Joint Conference on Neural Networks (IJCNN), 2015. (Rank: A)<br>
+Journals: Automated Software Engineering; Computers & Security; IEEE Transactions on Software Engineering (TSE); ACM Transactions on Software Engineering and Methodology (TOSEM).<br> 
 
-2014:<br>
-<b>Van Nguyen</b>, Trung Le, Thien Pham, Mi Dinh, and Thai Hoang Le. Kernel-based Semi-supervised Learning for Novelty Detection. International Joint Conference on Neural Networks (IJCNN), 2014. (Rank: A)<br>
+Conferences: The Web Conference (WWW); International Conference on Learning Representations (ICLR); Asian Conference on Machine Learning (ACML); Neural Information Processing Systems (NeurIPS); Uncertainty in Artificial Intelligence (UAI); International Conference on Machine Learning (ICML).<br> <br> 
 
-Trung Le, <b>Van Nguyen</b>, Thien Pham, Mi Dinh, and Thai Hoang Le. Fuzzy Semi-supervised Large Margin One-class Support Vector Machine. The National Foundation for Science and Technology Development (NAFOSTED) Conference on Information and Computer Science, 2014.<br>
+2024–Present:<br> 
+***Program Committee Member***, The Association for the Advancement of Artificial Intelligence (AAAI).
 
-2013:<br>
-Trung Le, Dat Tran, <b>Van Nguyen</b>, and Wanli Ma. Maximal Margin Learning Vector Quantisation. International Joint Conference on Neural Networks (IJCNN), 2013. (Rank: A)<br>
