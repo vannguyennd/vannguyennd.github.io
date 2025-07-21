@@ -2,7 +2,7 @@ I am Van Nguyen, a Postdoctoral Research Fellow in the Department of Software Sy
 
 To date, I have 5+ years of experience in computer science, data science, cybersecurity, and software engineering. My contributions to these areas have resulted in 20+ publications in esteemed conferences and journals in machine learning and software engineering, including ESEC/FSE, ICLR, TSE, TOSEM, KDD, IJCNN, PAKDD, ASIACCS, and UAI.
 
-My current research focuses on advancing machine learning and deep learning approaches to solve topical problems in network and software security, including out-of-distribution code identification in software systems, robust and multilingual software vulnerability detection with explanations, transparent and reliable automated vulnerability repair, and enhancing large language models (LLMs) for practical and secure code generation, aiming for safer and more reliable software development processes and broader security systems. My long-term research goal is to advance AI systems to perform complex human learning, explanation, and reasoning, enabling more intelligent, adaptive, and efficient solutions.
+My current research focuses on advancing machine learning, deep learning, and large language model-based approaches to solve topical problems in network and software security, including out-of-distribution code identification in software systems, robust and multilingual software vulnerability detection with explanations, transparent and reliable automated vulnerability repair, and efficient and secure code generation, aiming for safer and more reliable software development processes and broader security systems. My long-term research goal is to advance AI systems to perform complex human learning, explanation, and reasoning, enabling more intelligent, adaptive, and efficient solutions.
 
 
 Alongside my expertise in theories and methodologies of computer science, data science, cybersecurity, and software engineering, I have solid programming and technical skills, with proficiency in Python and a variety of libraries such as TensorFlow, Keras, PyTorch, Scikit-learn, NumPy, Pandas, Matplotlib, Seaborn, and Hugging Face for data analysis and implementing machine learning, deep learning, and large language models. I am also experienced in Power BI, SQL, C/C++, Git, R, Linux, and CUDA.
@@ -85,4 +85,3 @@ Tuan Nguyen, <b>Van Nguyen</b>, Trung Le, He Zhao, Quan Hung Tran, and Dinh Phun
 
 2024–Present:<br> 
 ***Program Committee Member***, The Association for the Advancement of Artificial Intelligence (AAAI).
-
