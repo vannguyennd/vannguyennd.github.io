@@ -44,8 +44,6 @@ Michael Fu, <b>Van Nguyen</b>, Chakkrit Kla Tantithamthavorn, Trung Le, and Dinh
 Michael Fu, Chakkrit Tantithamthavorn, Trung Le, Yuki Kume, <b>Van Nguyen</b>, Dinh Phung, and John Grundy. AIBugHunter: A Practical Tool for Predicting, Classifying and Repairing Software Vulnerabilities. Empirical Software Engineering, 2024. (***Rank: Q1***)<br>
 
 2023:<br>
-Michael Fu, Chakkrit Kla Tantithamthavorn, <b>Van Nguyen</b>, and Trung Le. Chatgpt for Vulnerability Detection, Classification, and Repair: How Far Are We? 30th Asia-Pacific Software Engineering Conference (APSEC), 2023.<br>
-
 Michael Fu, <b>Van Nguyen</b>, Chakkrit Kla Tantithamthavorn, Trung Le, and Dinh Phung. VulExplainer: A Transformer-based Hierarchical Distillation for Explaining Vulnerability Types. IEEE Transactions on Software Engineering (TSE), 2023. (***Rank: Q1***)<br>
 
 Vy Vo, <b>Van Nguyen</b>, Trung Le, Quan Hung Tran, Reza Haf, Seyit Camtepe, and Dinh Phung. An Additive Instance-Wise Approach to Multi-class Model Interpretation. The International Conference on Learning Representations (ICLR), 2023. (***Rank: A\****)<br>
