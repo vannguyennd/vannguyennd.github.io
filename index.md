@@ -58,7 +58,7 @@ Michael Fu, Chakkrit Tantithamthavorn, Trung Le, <b>Van Nguyen</b>, and Dinh Phu
 Tuan Nguyen, <b>Van Nguyen</b>, Trung Le, He Zhao, Quan Hung Tran, and Dinh Phung. Cycle Class Consistency with Distributional Optimal Transport and Knowledge Distillation for Unsupervised Domain Adaptation. The Conference on Uncertainty in Artificial Intelligence (UAI), 2022. (***Rank: A\****)<br>
 
 2021:<br>
-<b>Van Nguyen</b>, Trung Le, Olivier De Vel, Paul Montague, John Grundy, and Dinh Phung. Information-theoretic source Code Vulnerability Highlighting.  International Joint Conference on Neural Networks (IJCNN), 2021. (Rank: A)<br>
+<b>Van Nguyen</b>, Trung Le, Olivier De Vel, Paul Montague, John Grundy, and Dinh Phung. Information-theoretic source Code Vulnerability Highlighting.  International Joint Conference on Neural Networks (IJCNN), 2021.<br>
 
 2020:<br>
 <b>Van Nguyen</b>, Trung Le, Tue Le, Khanh Nguyen, Olivier de Vel, Paul Montague, and Dinh Phung. Code Pointer Network for Binary Function Scope Identification. International Joint Conference on Neural Networks (IJCNN), 2020. (Rank: A)<br>
