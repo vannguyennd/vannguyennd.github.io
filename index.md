@@ -73,12 +73,17 @@ Tuan Nguyen, <b>Van Nguyen</b>, Trung Le, He Zhao, Quan Hung Tran, and Dinh Phun
 
 ### Services
 
+2025:<br> 
+***Area Chair***: Serving as an area chair for ICLR (one of the top-tier (A*) conferences in machine learning).
+<br>
+
+2024–Present:<br> 
+***Program Committee Member***: The Association for the Advancement of Artificial Intelligence (AAAI).
+<br>
+
 2021–Present:<br> 
 ***Reviewer*** for leading conferences and journals in machine learning, cybersecurity, and software engineering, including:<br> 
 
 *Journals*: Automated Software Engineering; Computers & Security; IEEE Transactions on Software Engineering (TSE); ACM Transactions on Software Engineering and Methodology (TOSEM).<br> 
 
-*Conferences*: The Web Conference (WWW); International Conference on Learning Representations (ICLR); Asian Conference on Machine Learning (ACML); Neural Information Processing Systems (NeurIPS); Uncertainty in Artificial Intelligence (UAI); International Conference on Machine Learning (ICML).<br>
-
-2024–Present:<br> 
-***Program Committee Member***, The Association for the Advancement of Artificial Intelligence (AAAI).
+*Conferences*: The Web Conference (WWW); International Conference on Learning Representations (ICLR); Asian Conference on Machine Learning (ACML); Neural Information Processing Systems (NeurIPS); Uncertainty in Artificial Intelligence (UAI); International Conference on Machine Learning (ICML).
