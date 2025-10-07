@@ -10,6 +10,8 @@ Alongside my expertise in theories and methodologies of computer science, data s
 
 ### Selected News
 
+[*Oct 2025*] I am pleased to share our latest research, "MulVuln: Enhancing Pre-trained LMs with Shared and Language-Specific Knowledge for Multilingual Vulnerability Detection". In this study, we address the multilingual vulnerability detection problem, a challenging and relatively underexplored area in automated, AI-driven software security. The paper preprint is now available at https://arxiv.org/pdf/2510.04397.
+
 [*Oct 2025*] I am honored to serve as an Area Chair for ICLR 2026 and a Program Committee Member for AAAI 2026, both top-tier A* conferences in machine learning.
 
 [*May 2025*] I am thrilled to share that our paper, "SAFE: A Novel Approach For Software Vulnerability Detection from Enhancing The Capability of Large Language Models", has been accepted at the 20th ACM ASIA Conference on Computer and Communications Security ***(ACM ASIACCS 2025), one of the top conferences in cybersecurity***. In this work, we propose an innovative approach to enhance the capability of large language models in learning the semantic and syntactic relationships within source code, enabling more robust software vulnerability detection. I am deeply grateful to my collaborators for their invaluable feedback and support throughout this research.
