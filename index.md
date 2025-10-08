@@ -33,6 +33,9 @@ Alongside my expertise in theories and methodologies of computer science, data s
 ### Selected Publications
 
 2025:<br>
+
+<b>Van Nguyen</b>, Surya Nepal, Xingliang Yuan, Tingmin Wu, Fengchao Chen, Carsten Rudolph. MulVuln: Enhancing Pre-trained LMs with Shared and Language-Specific Knowledge for Multilingual Vulnerability Detection. https://arxiv.org/pdf/2510.04397. <br>
+
 <b>Van Nguyen</b>, Surya Nepal, Xingliang Yuan, Tingmin Wu, and Carsten Rudolph. SAFE: A Novel Approach For Software Vulnerability Detection from Enhancing The Capability of Large Language Models. The ACM ASIA Conference on Computer and Communications Security (ACM ASIACCS), 2025. (***Rank: A***) <br>
 
 <b>Van Nguyen</b>, Tingmin Wu, Xingliang Yuan, Marthie Grobler, Surya Nepal, and Carsten Rudolph. AI2TALE: An Innovative Information Theory-based Approach for Learning to Localize Phishing Attacks. The International Conference on Learning Representations (ICLR), 2025. (***Rank: A\****) <br>
