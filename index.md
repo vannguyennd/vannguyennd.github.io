@@ -35,7 +35,9 @@ Alongside my expertise in theories and methodologies of computer science, data s
 
 2025:<br>
 
-<b>Van Nguyen</b>, Surya Nepal, Xingliang Yuan, Tingmin Wu, Fengchao Chen, Carsten Rudolph. MulVuln: Enhancing Pre-trained LMs with Shared and Language-Specific Knowledge for Multilingual Vulnerability Detection. https://arxiv.org/pdf/2510.04397. <br>
+<b>Van Nguyen</b>, Surya Nepal, Xingliang Yuan, Tingmin Wu, Fengchao Chen, and Carsten Rudolph. MulVuln: Enhancing Pre-trained LMs with Shared and Language-Specific Knowledge for Multilingual Vulnerability Detection. https://arxiv.org/pdf/2510.04397. <br>
+
+Michael Fu, Trung Le, <b>Van Nguyen</b>, Chakkrit Tantithamthavorn, and Dinh Phung. Deepvulmatch: Learning and matching latent vulnerability representations for dual-granularity vulnerability detection. IEEE Transactions on Reliability, 2025. (***Rank: Q1***)  <br>
 
 <b>Van Nguyen</b>, Surya Nepal, Xingliang Yuan, Tingmin Wu, and Carsten Rudolph. SAFE: A Novel Approach For Software Vulnerability Detection from Enhancing The Capability of Large Language Models. The ACM ASIA Conference on Computer and Communications Security (ACM ASIACCS), 2025. (***Rank: A***) <br>
 
