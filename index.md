@@ -43,10 +43,10 @@ Alongside my expertise in theories and methodologies of computer science, data s
 
 2026:<br>
 
-<b>Van Nguyen</b>, Xingliang Yuan, Tingmin Wu, Surya Nepal, Marthie Grobler, Carsten Rudolph. LEO: An Information-theoretic Learning-based Approach for Identifying Out-of-distribution Source Code in Software Systems. ACM Transactions on Software Engineering and Methodology, 2026.
+<b>Van Nguyen</b>, Xingliang Yuan, Tingmin Wu, Surya Nepal, Marthie Grobler, Carsten Rudolph. LEO: An Information-theoretic Learning-based Approach for Identifying Out-of-distribution Source Code in Software Systems. ACM Transactions on Software Engineering and Methodology, 2026. (***Rank: Q1***)
 <br>
 
-Jacob Truong, <b>Van Nguyen</b>, Thanh Thi Nguyen. An overview of evaluation and enhancement methods for code generation by large language models. Information and Software Technology, 2026.
+Jacob Truong, <b>Van Nguyen</b>, Thanh Thi Nguyen. An overview of evaluation and enhancement methods for code generation by large language models. Information and Software Technology, 2026. (***Rank: Q1***)
 
 2025:<br>
 
