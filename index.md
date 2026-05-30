@@ -98,8 +98,12 @@ Tuan Nguyen, <b>Van Nguyen</b>, Trung Le, He Zhao, Quan Hung Tran, and Dinh Phun
 
 ### Services
 
+2026:<br> 
+***Area Chair***: Serving as an area chair for NeurIPS 2026, one of the premier A* conferences in machine learning.
+<br>
+
 2025:<br> 
-***Area Chair***: Serving as an area chair for ICLR (one of the top-tier (A*) conferences in machine learning).
+***Area Chair***: Serving as an area chair for ICLR, one of the top-tier A* conferences in machine learning.
 <br>
 
 2024–Present:<br> 
