@@ -10,6 +10,11 @@ Alongside my expertise in theories and methodologies of computer science, data s
 ---
 
 ### Selected News
+
+[*May 2026*] I am delighted to share that our paper, “LEO: An Information-Theoretic Learning-Based Approach for Identifying Out-of-Distribution Source Code in Software Systems”, has been accepted for publication in ACM Transactions on Software Engineering and Methodology (TOSEM), **one of the most prestigious Q1 journals in software engineering**. In this work, we propose an innovative information-theoretic learning approach for identifying out-of-distribution source code, a critical challenge that affects the reliability and robustness of AI-driven software engineering systems. I am grateful to my collaborators for their valuable feedback and support throughout this research.
+
+[*May 2026*] I am pleased to share that our survey paper, “An Overview of Evaluation and Enhancement Methods for Code Generation by Large Language Models”, has been accepted for publication in Information and Software Technology (IST), **a leading Q1 journal in software engineering**. This work provides a comprehensive review of existing evaluation methodologies and enhancement techniques for large language model-based code generation systems. I am grateful to my co-authors for the opportunity to contribute to this research.
+
 [*Dec 2025*] I am happy to share that I have received **the Postdoctoral Research Fellow Excellence 2025 Award** from the Department of Software Systems and Cybersecurity (SSC), Faculty of Information Technology, Monash University, recognising my research excellence, impact, and service contributions.
 
 [*Oct 2025*] I am pleased to share our latest research, "MulVuln: Enhancing Pre-trained LMs with Shared and Language-Specific Knowledge for Multilingual Vulnerability Detection". In this study, we address the multilingual vulnerability detection problem, a challenging and relatively underexplored area in automated, AI-driven software security. The paper preprint is now available at https://arxiv.org/pdf/2510.04397.
@@ -34,9 +39,16 @@ Alongside my expertise in theories and methodologies of computer science, data s
 
 ### Selected Publications
 
+2026:<br>
+
+<b>Van Nguyen</b>, Xingliang Yuan, Tingmin Wu, Surya Nepal, Marthie Grobler, Carsten Rudolph. LEO: An Information-theoretic Learning-based Approach for Identifying Out-of-distribution Source Code in Software Systems. ACM Transactions on Software Engineering and Methodology, 2026.
+<br>
+
+Jacob Truong, <b>Van Nguyen</b>, Thanh Thi Nguyen. An overview of evaluation and enhancement methods for code generation by large language models. Information and Software Technology, 2026.
+
 2025:<br>
 
-<b>Van Nguyen</b>, Surya Nepal, Xingliang Yuan, Tingmin Wu, Fengchao Chen, and Carsten Rudolph. MulVuln: Enhancing Pre-trained LMs with Shared and Language-Specific Knowledge for Multilingual Vulnerability Detection. https://arxiv.org/pdf/2510.04397. <br>
+<b>Van Nguyen</b>, Surya Nepal, Xingliang Yuan, Tingmin Wu, Fengchao Chen, and Carsten Rudolph. MulVuln: Enhancing Pre-trained LMs with Shared and Language-Specific Knowledge for Multilingual Vulnerability Detection. https://arxiv.org/pdf/2510.04397, 2025. <br>
 
 Michael Fu, Trung Le, <b>Van Nguyen</b>, Chakkrit Tantithamthavorn, and Dinh Phung. Deepvulmatch: Learning and matching latent vulnerability representations for dual-granularity vulnerability detection. IEEE Transactions on Reliability, 2025. (***Rank: Q1***)  <br>
 
