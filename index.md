@@ -11,7 +11,7 @@ Alongside my expertise in theories and methodologies of computer science, data s
 
 ### Selected News
 
-[*June 2026*] I am honored to serve as **an Area Chair** for NeurIPS 2026, one of the premier A* conferences in machine learning.
+[*June 2026*] I am honored to serve as **an Area Chair** for **NeurIPS** 2026, one of the premier A* conferences in machine learning.
 
 [*May 2026*] I am delighted to share that our paper, “LEO: An Information-Theoretic Learning-Based Approach for Identifying Out-of-Distribution Source Code in Software Systems”, has been accepted for publication in ACM Transactions on Software Engineering and Methodology (TOSEM), **one of the most prestigious Q1 journals in software engineering**. In this work, we propose an innovative information-theoretic learning approach for identifying out-of-distribution source code, a critical challenge that affects the reliability and robustness of AI-driven software engineering systems. I am grateful to my collaborators for their valuable feedback and support throughout this research.
 
@@ -21,7 +21,7 @@ Alongside my expertise in theories and methodologies of computer science, data s
 
 [*Oct 2025*] I am pleased to share our latest research, "MulVuln: Enhancing Pre-trained LMs with Shared and Language-Specific Knowledge for Multilingual Vulnerability Detection". In this study, we address the multilingual vulnerability detection problem, a challenging and relatively underexplored area in automated, AI-driven software security. The paper preprint is now available at https://arxiv.org/pdf/2510.04397.
 
-[*Oct 2025*] I am honored to serve as **an Area Chair** for ICLR 2026 and **a Program Committee Member** for AAAI 2026, both top-tier A* conferences in machine learning.
+[*Oct 2025*] I am honored to serve as **an Area Chair** for **ICLR** 2026 and **a Program Committee Member** for **AAAI** 2026, both top-tier A* conferences in machine learning.
 
 [*May 2025*] I am thrilled to share that our paper, "SAFE: A Novel Approach For Software Vulnerability Detection from Enhancing The Capability of Large Language Models", has been accepted at the 20th ACM ASIA Conference on Computer and Communications Security ***(ACM ASIACCS 2025), one of the top conferences in cybersecurity***. In this work, we propose an innovative approach to enhance the capability of large language models in learning the semantic and syntactic relationships within source code, enabling more robust software vulnerability detection. I am deeply grateful to my collaborators for their invaluable feedback and support throughout this research.
 
@@ -43,56 +43,56 @@ Alongside my expertise in theories and methodologies of computer science, data s
 
 2026:<br>
 
-<b>Van Nguyen</b>, Xingliang Yuan, Tingmin Wu, Surya Nepal, Marthie Grobler, Carsten Rudolph. LEO: An Information-theoretic Learning-based Approach for Identifying Out-of-distribution Source Code in Software Systems. ACM Transactions on Software Engineering and Methodology, 2026. (***Rank: Q1***)
+**Van Nguyen**, Xingliang Yuan, Tingmin Wu, Surya Nepal, Marthie Grobler, Carsten Rudolph. LEO: An Information-theoretic Learning-based Approach for Identifying Out-of-distribution Source Code in Software Systems. ACM Transactions on Software Engineering and Methodology (TOSEM), 2026. (***Rank: Q1***)
 <br>
 
-Jacob Truong, <b>Van Nguyen</b>, Thanh Thi Nguyen. An overview of evaluation and enhancement methods for code generation by large language models. Information and Software Technology, 2026. (***Rank: Q1***)
+Jacob Truong, **Van Nguyen**, Thanh Thi Nguyen. An overview of evaluation and enhancement methods for code generation by large language models. Information and Software Technology (IST), 2026. (***Rank: Q1***)
 
 2025:<br>
 
-<b>Van Nguyen</b>, Surya Nepal, Xingliang Yuan, Tingmin Wu, Fengchao Chen, and Carsten Rudolph. MulVuln: Enhancing Pre-trained LMs with Shared and Language-Specific Knowledge for Multilingual Vulnerability Detection. https://arxiv.org/pdf/2510.04397, 2025. <br>
+**Van Nguyen**, Surya Nepal, Xingliang Yuan, Tingmin Wu, Fengchao Chen, and Carsten Rudolph. MulVuln: Enhancing Pre-trained LMs with Shared and Language-Specific Knowledge for Multilingual Vulnerability Detection. https://arxiv.org/pdf/2510.04397, 2025. <br>
 
-Michael Fu, Trung Le, <b>Van Nguyen</b>, Chakkrit Tantithamthavorn, and Dinh Phung. Deepvulmatch: Learning and matching latent vulnerability representations for dual-granularity vulnerability detection. IEEE Transactions on Reliability, 2025. (***Rank: Q1***)  <br>
+Michael Fu, Trung Le, **Van Nguyen**, Chakkrit Tantithamthavorn, and Dinh Phung. Deepvulmatch: Learning and matching latent vulnerability representations for dual-granularity vulnerability detection. IEEE Transactions on Reliability, 2025. (***Rank: Q1***)  <br>
 
-<b>Van Nguyen</b>, Surya Nepal, Xingliang Yuan, Tingmin Wu, and Carsten Rudolph. SAFE: A Novel Approach For Software Vulnerability Detection from Enhancing The Capability of Large Language Models. The ACM ASIA Conference on Computer and Communications Security (ACM ASIACCS), 2025. (***Rank: A***) <br>
+**Van Nguyen**, Surya Nepal, Xingliang Yuan, Tingmin Wu, and Carsten Rudolph. SAFE: A Novel Approach For Software Vulnerability Detection from Enhancing The Capability of Large Language Models. The ACM ASIA Conference on Computer and Communications Security (ACM ASIACCS), 2025. (***Rank: A***) <br>
 
-<b>Van Nguyen</b>, Tingmin Wu, Xingliang Yuan, Marthie Grobler, Surya Nepal, and Carsten Rudolph. AI2TALE: An Innovative Information Theory-based Approach for Learning to Localize Phishing Attacks. The International Conference on Learning Representations (ICLR), 2025. (***Rank: A\****) <br>
+**Van Nguyen**, Tingmin Wu, Xingliang Yuan, Marthie Grobler, Surya Nepal, and Carsten Rudolph. AI2TALE: An Innovative Information Theory-based Approach for Learning to Localize Phishing Attacks. The International Conference on Learning Representations (ICLR), 2025. (***Rank: A\****) <br>
 
 Bowen Zhang, Hui Cui, <b>Van Nguyen</b>, and Monica Whitty. Audio Deepfake Detection: What Has Been Achieved and What Lies Ahead. Sensors, 2025. (***Rank: Q1*** (Instrumentation)).
 
 2024:<br>
-<b>Van Nguyen</b>, Trung Le, Chakkrit Kla Tantithamthavorn, John Grundy, and Dinh Phung. Deep Domain Adaptation With Max-Margin Principle for Cross-Project Imbalanced Software Vulnerability Detection. ACM Transactions on Software Engineering and Methodology (TOSEM), 2024. (***Rank: Q1***)<br> 
+**Van Nguyen**, Trung Le, Chakkrit Kla Tantithamthavorn, John Grundy, and Dinh Phung. Deep Domain Adaptation With Max-Margin Principle for Cross-Project Imbalanced Software Vulnerability Detection. ACM Transactions on Software Engineering and Methodology (TOSEM), 2024. (***Rank: Q1***)<br> 
 
-Michael Fu, <b>Van Nguyen</b>, Chakkrit Kla Tantithamthavorn, Trung Le, and Dinh Phung. Vision transformer-inspired automated vulnerability repair. ACM Transactions on Software Engineering and Methodology (TOSEM), 2024. (***Rank: Q1***)<br>
+Michael Fu, **Van Nguyen**, Chakkrit Kla Tantithamthavorn, Trung Le, and Dinh Phung. Vision transformer-inspired automated vulnerability repair. ACM Transactions on Software Engineering and Methodology (TOSEM), 2024. (***Rank: Q1***)<br>
 
-Michael Fu, Chakkrit Tantithamthavorn, Trung Le, Yuki Kume, <b>Van Nguyen</b>, Dinh Phung, and John Grundy. AIBugHunter: A Practical Tool for Predicting, Classifying and Repairing Software Vulnerabilities. Empirical Software Engineering, 2024. (***Rank: Q1***)<br>
+Michael Fu, Chakkrit Tantithamthavorn, Trung Le, Yuki Kume, **Van Nguyen**, Dinh Phung, and John Grundy. AIBugHunter: A Practical Tool for Predicting, Classifying and Repairing Software Vulnerabilities. Empirical Software Engineering (ESE), 2024. (***Rank: Q1***)<br>
 
 2023:<br>
-Michael Fu, <b>Van Nguyen</b>, Chakkrit Kla Tantithamthavorn, Trung Le, and Dinh Phung. VulExplainer: A Transformer-based Hierarchical Distillation for Explaining Vulnerability Types. IEEE Transactions on Software Engineering (TSE), 2023. (***Rank: Q1***)<br>
+Michael Fu, **Van Nguyen**, Chakkrit Kla Tantithamthavorn, Trung Le, and Dinh Phung. VulExplainer: A Transformer-based Hierarchical Distillation for Explaining Vulnerability Types. IEEE Transactions on Software Engineering (TSE), 2023. (***Rank: Q1***)<br>
 
-Vy Vo, <b>Van Nguyen</b>, Trung Le, Quan Hung Tran, Reza Haf, Seyit Camtepe, and Dinh Phung. An Additive Instance-Wise Approach to Multi-class Model Interpretation. The International Conference on Learning Representations (ICLR), 2023. (***Rank: A\****)<br>
+Vy Vo, **Van Nguyen**, Trung Le, Quan Hung Tran, Reza Haf, Seyit Camtepe, and Dinh Phung. An Additive Instance-Wise Approach to Multi-class Model Interpretation. The International Conference on Learning Representations (ICLR), 2023. (***Rank: A\****)<br>
 
-Vy Vo, Trung Le, <b>Van Nguyen</b>, He Zhao, Edwin Bonilla, Gholamreza Haffari, and Dinh Phung. Feature-based Learning for Diverse and Privacy-Preserving Counterfactual Explanations. 29th ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD), 2023. (***Rank: A\****)<br>
+Vy Vo, Trung Le, **Van Nguyen**, He Zhao, Edwin Bonilla, Gholamreza Haffari, and Dinh Phung. Feature-based Learning for Diverse and Privacy-Preserving Counterfactual Explanations. 29th ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD), 2023. (***Rank: A\****)<br>
 
 2022:<br>
-Van-Anh Nguyen, Dai Quoc Nguyen, <b>Van Nguyen</b>, Trung Le, Quan Hung Tran, and Dinh Phung. ReGVD: Revisiting Graph Neural Networks for Vulnerability Detection. IEEE/ACM 44th International Conference on Software Engineering: Companion Proceedings (ICSE-Companion), 2022.<br>
+Van-Anh Nguyen, Dai Quoc Nguyen, **Van Nguyen**, Trung Le, Quan Hung Tran, and Dinh Phung. ReGVD: Revisiting Graph Neural Networks for Vulnerability Detection. IEEE/ACM 44th International Conference on Software Engineering: Companion Proceedings (ICSE-Companion), 2022.<br>
 
-Michael Fu, Chakkrit Tantithamthavorn, Trung Le, <b>Van Nguyen</b>, and Dinh Phung. VulRepair: A T5-Based Automated Software Vulnerability Repair. 30th ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering (ESEC/FSE), 2022. (***Rank: A\****)<br>
+Michael Fu, Chakkrit Tantithamthavorn, Trung Le, **Van Nguyen**, and Dinh Phung. VulRepair: A T5-Based Automated Software Vulnerability Repair. 30th ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering (ESEC/FSE), 2022. (***Rank: A\****)<br>
 
-Tuan Nguyen, <b>Van Nguyen</b>, Trung Le, He Zhao, Quan Hung Tran, and Dinh Phung. Cycle Class Consistency with Distributional Optimal Transport and Knowledge Distillation for Unsupervised Domain Adaptation. The Conference on Uncertainty in Artificial Intelligence (UAI), 2022. (***Rank: A\****)<br>
+Tuan Nguyen, **Van Nguyen**, Trung Le, He Zhao, Quan Hung Tran, and Dinh Phung. Cycle Class Consistency with Distributional Optimal Transport and Knowledge Distillation for Unsupervised Domain Adaptation. The Conference on Uncertainty in Artificial Intelligence (UAI), 2022. (***Rank: A\****)<br>
 
 2021:<br>
-<b>Van Nguyen</b>, Trung Le, Olivier De Vel, Paul Montague, John Grundy, and Dinh Phung. Information-theoretic source Code Vulnerability Highlighting.  International Joint Conference on Neural Networks (IJCNN), 2021.<br>
+**Van Nguyen**, Trung Le, Olivier De Vel, Paul Montague, John Grundy, and Dinh Phung. Information-theoretic source Code Vulnerability Highlighting.  International Joint Conference on Neural Networks (IJCNN), 2021.<br>
 
 2020:<br>
-<b>Van Nguyen</b>, Trung Le, Tue Le, Khanh Nguyen, Olivier de Vel, Paul Montague, and Dinh Phung. Code Pointer Network for Binary Function Scope Identification. International Joint Conference on Neural Networks (IJCNN), 2020. (Rank: A)<br>
+**Van Nguyen**, Trung Le, Tue Le, Khanh Nguyen, Olivier de Vel, Paul Montague, and Dinh Phung. Code Pointer Network for Binary Function Scope Identification. International Joint Conference on Neural Networks (IJCNN), 2020. (Rank: A)<br>
 
-<b>Van Nguyen</b>, Trung Le, Olivier de Vel, Paul Montague, John Grundy, and Dinh Phung. Dual-Component Deep Domain Adaptation: A New Approach for Cross Project Software Vulnerability Detection. The Pacific-Asia Conference on Knowledge Discovery and Data Mining (PAKDD), 2020. (Rank: A)<br>
+**Van Nguyen**, Trung Le, Olivier de Vel, Paul Montague, John Grundy, and Dinh Phung. Dual-Component Deep Domain Adaptation: A New Approach for Cross Project Software Vulnerability Detection. The Pacific-Asia Conference on Knowledge Discovery and Data Mining (PAKDD), 2020. (Rank: A)<br>
 
-<b>Van Nguyen</b>, Trung Le, Tue Le, Khanh Nguyen, Olivier de Vel, Paul Montague, John Grundy, and Dinh Phung. Code Action Network for Binary Function Scope Identification. Advances in Knowledge Discovery and Data Mining: 24th Pacific-Asia Conference, PAKDD, 2020. (Rank: A)<br>
+**Van Nguyen**, Trung Le, Tue Le, Khanh Nguyen, Olivier de Vel, Paul Montague, John Grundy, and Dinh Phung. Code Action Network for Binary Function Scope Identification. Advances in Knowledge Discovery and Data Mining: 24th Pacific-Asia Conference, PAKDD, 2020. (Rank: A)<br>
 
 2019:<br>
-<b>Van Nguyen</b>, Trung Le, Tue Le, Khanh Nguyen, Olivier DeVel, Paul Montague, Lizhen Qu, and Dinh Phung. Deep Domain Adaptation for Vulnerable Code Function Identification. International Joint Conference on Neural Networks (IJCNN), 2019. (Rank: A)<br>
+**Van Nguyen**, Trung Le, Tue Le, Khanh Nguyen, Olivier DeVel, Paul Montague, Lizhen Qu, and Dinh Phung. Deep Domain Adaptation for Vulnerable Code Function Identification. International Joint Conference on Neural Networks (IJCNN), 2019. (Rank: A)<br>
 
 ---
 
