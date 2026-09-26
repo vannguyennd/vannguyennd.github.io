@@ -11,6 +11,8 @@ Alongside my expertise in theories and methodologies of computer science, data s
 
 ### Selected News
 
+[*Sep 2026*] I am pleased to continue serving as an Area Chair for **ICLR** 2027 (a leading A* venue in machine learning), following my role at ICLR 2026.
+
 [*June 2026*] I am honored to serve as **an Area Chair** for **NeurIPS** 2026, one of the premier A* conferences in machine learning.
 
 [*May 2026*] I am delighted to share that our paper, “LEO: An Information-Theoretic Learning-Based Approach for Identifying Out-of-Distribution Source Code in Software Systems”, has been accepted for publication in ACM Transactions on Software Engineering and Methodology (TOSEM), **one of the most prestigious Q1 journals in software engineering**. In this work, we propose an innovative information-theoretic learning approach for identifying out-of-distribution source code, a critical challenge that affects the reliability and robustness of AI-driven software engineering systems. I am grateful to my collaborators for their valuable feedback and support throughout this research.
