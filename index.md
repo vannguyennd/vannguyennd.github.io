@@ -11,7 +11,7 @@ Alongside my expertise in theories and methodologies of computer science, data s
 
 ### Selected News
 
-[*Sep 2026*] I am pleased to continue serving as an Area Chair for **ICLR** 2027 (a leading A* venue in machine learning), following my role at ICLR 2026.
+[*Sep 2026*] I am pleased to continue serving as **an Area Chair** for **ICLR** 2027 (a leading A* venue in machine learning), following my role at ICLR 2026.
 
 [*June 2026*] I am honored to serve as **an Area Chair** for **NeurIPS** 2026, one of the premier A* conferences in machine learning.
 
